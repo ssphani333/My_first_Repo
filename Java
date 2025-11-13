@@ -13,3 +13,11 @@ public class VariablesExample {
         System.out.println("Is Active: " + isActive);
     }
 }
+
+# New code added
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
